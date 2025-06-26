@@ -442,4 +442,3 @@ class MainActivity : ComponentActivity(), SensorEventListener {
         return String.format("%02d:%02d:%02d", h, m, s)
     }
 }
-//
